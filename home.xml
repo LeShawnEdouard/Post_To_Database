@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
-    <intro> Welcome to the vowel guessing game. Click the botton
-        below to start! </intro>
+    <logo> Guess The Vowel </logo>
+
+    <intro> Welcome to the vowel guessing game. Click the button
+        below to start!
+    </intro>
+
+    <author> Created by LeShawn Edouard </author>
 </game>
