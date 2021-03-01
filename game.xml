@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game>
+<welcome>
     <logo> Guess The Vowel </logo>
 
     <intro> Welcome to the vowel guessing game. Click the button
@@ -7,4 +7,4 @@
     </intro>
 
     <author> Created by LeShawn Edouard </author>
-</game>
+</welcome>
